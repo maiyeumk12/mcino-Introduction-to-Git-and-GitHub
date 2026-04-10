@@ -1,4 +1,2 @@
-git branch -a
-* main
-  remotes/origin/HEAD -> origin/main
-  remotes/origin/main
+git branch -vv
+* main ed679f3 [origin/main] Create merge_branches
