@@ -1,0 +1,15 @@
+curl -s https://api.github.com/repos/maiyeumk12/mcino-Introduction-to-Git-and-GitHub/pulls
+{
+  "title": "bug fix revert",
+  "state": "open/closed/merged",
+  "head": {
+    "repo": {
+      "full_name": "maiyeumk12/mcino-Introduction-to-Git-and-GitHub"
+    }
+  },
+  "base": {
+    "repo": {
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+}
